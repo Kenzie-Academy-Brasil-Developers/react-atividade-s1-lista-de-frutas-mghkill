@@ -1,0 +1,8 @@
+.buttonFruits{
+    width: 200px;
+    height: 50px;
+    border: white solid 2px;
+    border-radius: 8px;
+    background-color: rgb(248, 201, 240);
+    color: rgb(0, 0, 0);
+}
